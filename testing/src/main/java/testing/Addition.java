@@ -6,7 +6,7 @@ public class Addition {
 		// TODO Auto-generated method stub
        int x=14,y=2,z;
        z=x/y;
-       System.out.println(z);
+       System.out.println("the addition of these two values " ,z);
    
 	}
 
